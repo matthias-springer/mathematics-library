@@ -1,0 +1,1 @@
+Helpers	< class >	^ (Object << ModuleSystem Uninstantiable) subclass
