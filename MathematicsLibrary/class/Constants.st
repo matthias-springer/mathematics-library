@@ -1,0 +1,1 @@
+Constants	< class >	^ (Object << ModuleSystem Uninstantiable) subclass
