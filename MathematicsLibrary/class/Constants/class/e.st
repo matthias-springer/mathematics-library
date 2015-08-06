@@ -1,1 +1,1 @@
-e	^ 2.71
+e	| result |	result := 0.	0 to: 10 do: [ :i | result := result + (1 / i factorial) ].	^ result asFloat
