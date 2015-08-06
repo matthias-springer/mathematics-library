@@ -1,1 +1,0 @@
-testRadToDeg	self assert: (Helpers radToDeg: 2 * Constants pi) equals: 360.
